@@ -144,14 +144,6 @@ Demand =
 
 ---
 
-##  Certification Readiness Checklist
 
-- [x] Model 1, 2, 3 implemented and tested
-- [x] Real-time streaming with Pathway
-- [x] Demand function, assumptions, competition explained
-- [x] Visualizations from Bokeh implemented
-- [x] README with diagram, structure, and reproducibility
-
----
 
 
