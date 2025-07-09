@@ -1,6 +1,6 @@
 # Dynamic Pricing Engine for Urban Parking Spaces
 
-> Capstone Project | Summer Analytics 2025> By: [Your Name Here]> Hosted by: Consulting & Analytics Club x Pathway
+> Capstone Project | Summer Analytics 2025> By: [Gyan Chelani]> Hosted by: Consulting & Analytics Club x Pathway
 
 ---
 
